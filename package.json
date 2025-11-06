@@ -1,0 +1,23 @@
+{
+  "name": "poc-ajuste-de-vulnerabilidade",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dylorena/poc-ajuste-de-vulnerabilidade.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dylorena/poc-ajuste-de-vulnerabilidade/issues"
+  },
+  "homepage": "https://github.com/Dylorena/poc-ajuste-de-vulnerabilidade#readme",
+  "description": "",
+  "optionalDependencies": {
+    "next": ">=15"
+  }
+}
